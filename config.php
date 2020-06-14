@@ -8,6 +8,7 @@ $usuario_BD = "root";
 $senha_BD = "1vdwsGhkOhkmhnAx";
 $base = "bprojeto";
 
+
 //conexão ao banco
 $tenta_conectar = new mysqli($local, $usuario_BD, $senha_BD, $base);
 if ($tenta_conectar->connect_error) {
