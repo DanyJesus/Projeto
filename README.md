@@ -2,4 +2,4 @@
 Trabalho
 
 Login MODAL
-Banco de Dados em nuvem  Cloud Platform servidor MYSQL
+Conectado em Servidor de Maquina Virtual no Cloud Platform em Banco de Dados Mysql
